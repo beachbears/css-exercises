@@ -35,6 +35,7 @@ body {
   align-items: center;
   justify-content: center;
   margin: 16px;
+  flex-shrink: 0;
 }
 
 .top {
@@ -88,4 +89,10 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
 }
