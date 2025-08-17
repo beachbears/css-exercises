@@ -40,10 +40,13 @@ body {
 .top {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 .content {
   flex-direction: column;
+  margin: 16px 0px;
 }
 
 .close-button {
