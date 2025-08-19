@@ -5,6 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 .header,
@@ -56,6 +58,7 @@ input {
   justify-content: center;
   align-items: center;
   gap: 16px;
+  flex-grow: 1;
 }
 
 .footer {
