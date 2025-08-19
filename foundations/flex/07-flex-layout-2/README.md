@@ -7,8 +7,8 @@ As with the previous exercise, we've left a little more for you to do.
 ### Hints
 - You will need to change the flex-direction to push the footer down./
 - You will need to add some divs as containers to get things to line up correctly./
-- `flex-wrap` will help get the cards aligned correctly. 
--  Make sure you define how much space the cards should take up, in order for `flex-wrap` to work as intended.
+- `flex-wrap` will help get the cards aligned correctly. /
+-  Make sure you define how much space the cards should take up, in order for `flex-wrap` to work as intended. /
 
 ## Desired outcome
 
@@ -18,7 +18,7 @@ The number of cards lined up in that section will change based on the width of y
 
 On a smaller screen it will look like this:
 
-![smaller](./desired-outcome-smaller.png)
+![smaller](./desired-outcome-smaller.png) 
 
 Note: The emojis may instead show up as one or several text symbols (e.g. &#9734;&#9794;) if you don't have an emoji-based font family installed on your operating system. This does not affect the exercise and can be ignored.
 
