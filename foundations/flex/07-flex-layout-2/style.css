@@ -29,7 +29,7 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
-  box-sizing: border-box;
+  box-sizing: content-box;
   flex-shrink: 0;
   padding: 16px;
 }
@@ -65,4 +65,8 @@ ul {
   display: flex;
   flex-direction: column;
   flex: 1;
+}
+
+#cards {
+  padding: 48px;
 }
