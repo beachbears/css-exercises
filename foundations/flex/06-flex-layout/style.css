@@ -7,7 +7,6 @@ body {
   font-family: Roboto, sans-serif;
 }
 
-
 .header,
 .footer {
   display: flex;
@@ -48,4 +47,11 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
