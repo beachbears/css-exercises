@@ -17,9 +17,12 @@ body {
 }
 
 .footer {
-  height: 72px;
+  height: 40px;
   background: #eee;
   color: darkmagenta;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
